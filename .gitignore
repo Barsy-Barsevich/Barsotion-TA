@@ -1,0 +1,6 @@
+*.kicad_prl
+*.kicad_pro
+*.kicad_sch*
+*.kicad_pcb*
+fp-info-cache
+ThetaAnomalain-backups/*
