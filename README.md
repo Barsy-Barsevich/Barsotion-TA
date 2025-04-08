@@ -1,6 +1,7 @@
 # Barsotion-TA
 Board computer for model rockets, the 11th board after Berkut
 
+![](./Photo/pic1v13.png)
 ## Parameters
 
 ## Software
