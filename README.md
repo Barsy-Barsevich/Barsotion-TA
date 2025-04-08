@@ -3,7 +3,14 @@ Board computer for model rockets, the 11th board after Berkut
 
 ![](./Photo/pic1v13.png)
 ## Parameters
-
+- Microcontroller: ESP32-S3FN8 (2x Xtensa LX7 core)
+- Clock frequency: 240MHz
+- Gyroscope: on-board ICM-42688-P (SPI, interrupt channel)
+- Barometer: on-board, BMP388 (I2C)
+- Hygrometer: on-board, AHT20 (I2C)
+- Memory: 4Gbit SPI NAND Flash (Quad SPI)
+- Quartz Gyroscope's ODR frequency stabilization
+- 2.4GHz Wi-Fi / Bluetooth / BLE antenna
 ## Software
 - [EA & TA software packet](https://github.com/Barsy-Barsevich/SindHagku-1)
 
