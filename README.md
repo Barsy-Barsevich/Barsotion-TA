@@ -1,7 +1,7 @@
 # Barsotion-TA
 Board computer for model rockets, the 11th board after Berkut
 
-![](./Photo/pic1v13.png)
+![](./Photo/ThetaAnomalain.png)
 ## Parameters
 - Microcontroller: ESP32-S3FN8 (2x Xtensa LX7 core)
 - Clock frequency: 240MHz
