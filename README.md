@@ -11,6 +11,9 @@ Board computer for model rockets, the 11th board after Berkut
 - Onboard DC-DC pull-up converter for servos
 - 2.4GHz Wi-Fi / Bluetooth / BLE antenna
 
+## Manual
+- [EA&TA_user_manual_preliminary_edition_revA.pdf](./Manual/EA&TA_user_manual_preliminary_edition_revA.pdf)
+
 ## Software
 - [EA & TA software packet](https://github.com/Barsy-Barsevich/Barsotion-xA-software)
 
