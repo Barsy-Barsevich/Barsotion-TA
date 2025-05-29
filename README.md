@@ -12,7 +12,7 @@ Board computer for model rockets, the 11th board after Berkut
 - Quartz Gyroscope's ODR frequency stabilization
 - 2.4GHz Wi-Fi / Bluetooth / BLE antenna
 ## Software
-- [EA & TA software packet](https://github.com/Barsy-Barsevich/AlexanderDugin)
+- [EA & TA software packet](https://github.com/Barsy-Barsevich/Barsotion-xA-software)
 
 ## Continious progress
 - [Previous board: Barsotion-EA](https://github.com/Barsy-Barsevich/Barsotion-EA)
