@@ -12,6 +12,7 @@ Board computer for model rockets, the 11th board after Berkut
 - 2.4GHz Wi-Fi / Bluetooth / BLE antenna
 
 ## Manual
+- [EA&TA_user_manual_preliminary_edition_revB.pdf (newest revision)](./Manual/EA&TA_user_manual_preliminary_edition_revB.pdf)
 - [EA&TA_user_manual_preliminary_edition_revA.pdf](./Manual/EA&TA_user_manual_preliminary_edition_revA.pdf)
 
 ## Software
