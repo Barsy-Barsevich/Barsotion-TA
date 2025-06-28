@@ -3,7 +3,7 @@ Board computer for model rockets, the 11th board after Berkut
 
 ![](./Photo/v1.6/Screenshot%20at%202025-05-09%2021-59-08.png)
 
-## Features
+## ⚡️Features
 - Dual-core 240MHz Xtensa processor (in ESP32-S3)
 - 512 MB log flash
 - Up to 8kHz IMU cycle frequency
@@ -11,20 +11,20 @@ Board computer for model rockets, the 11th board after Berkut
 - Onboard DC-DC pull-up converter for servos
 - 2.4GHz Wi-Fi / Bluetooth / BLE antenna
 
-## Manual
+## ⚡️Manual
 - [EA&TA_user_manual_preliminary_edition_revB.pdf (newest revision)](./Manual/EA&TA_user_manual_preliminary_edition_revB.pdf)
 - [EA&TA_user_manual_preliminary_edition_revA.pdf](./Manual/EA&TA_user_manual_preliminary_edition_revA.pdf)
 
-## Software
+## ⚡️Software
 - [EA & TA software packet](https://github.com/Barsy-Barsevich/Barsotion-xA-software)
 
-## Continious progress
+## ⚡️Continious progress
 - [Previous board: Barsotion-EA](https://github.com/Barsy-Barsevich/Barsotion-EA)
 
-## Schematic
+## ⚡️Schematic
 [Full electrical schematic in .pdf](./Schematic/Barsotion-TA_Schematic_v1.6.pdf)
 ![](./Schematic/TA_Blockscheme.png)
-## Parameters
+## ⚡️Parameters
 - Microcontroller: ESP32-S3FN8 (2x Xtensa LX7 core)
 - Clock frequency: 240MHz
 - Gyroscope: on-board ICM-42688-P (SPI, interrupt channel)
