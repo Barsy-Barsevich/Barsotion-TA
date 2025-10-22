@@ -1,7 +1,7 @@
 # Barsotion-TA
 Board computer for model rockets, the 11th board after Berkut
 
-![](./Photo/v1.6/IMG_9593.jpg)
+![](./Photo/v1.6/IMG_9593.png)
 
 ## ⚡️Features
 - Dual-core 240MHz Xtensa processor (in ESP32-S3)
